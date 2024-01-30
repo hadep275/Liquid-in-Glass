@@ -36,7 +36,7 @@ This project showcases an animated representation of liquid in a glass using HTM
 
 To get started with this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/liquid-in-glass.git`
+1. Clone the repository: `git clone https://github.com/hadep275/Liquid-in-Glass.git`
 2. Open `index.html` in your preferred web browser.
 
 ## Usage
