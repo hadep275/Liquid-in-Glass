@@ -20,7 +20,7 @@ This project showcases an animated representation of liquid in a glass using HTM
 
 ## Demo
 
-- **Browser Demo:** [Liquid in Glass Demo](https://your-demo-link.com)
+- **Browser Demo:** [Liquid in Glass Demo](https://hadep275.github.io/Liquid-in-Glass/)
 - **Video Demo:** [Watch Video Demo](https://your-video-link.com)
 
 [![Watch Video Demo](demo-thumbnail.png)](https://your-video-link.com)
